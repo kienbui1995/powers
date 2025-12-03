@@ -1,7 +1,3 @@
----
-inclusion: manual
----
-
 # Get Started with Terraform
 
 ## Overview

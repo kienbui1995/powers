@@ -1,7 +1,3 @@
----
-inclusion: manual
----
-
 # Terraform MCP Server Usage Instructions
 
 Guidelines for using the Terraform MCP server to generate high-quality Terraform code.

@@ -1,8 +1,3 @@
----
-inclusion: fileMatch
-fileMatchPattern: "**/*.tf"
----
-
 # Terraform Best Practices
 
 Auto-loaded when editing .tf files.
