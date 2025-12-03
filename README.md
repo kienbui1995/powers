@@ -83,6 +83,13 @@ Documentation is available at https://kiro.dev/docs/powers/
 
 ---
 
+### terraform
+**Terraform** - Build and manage infrastructure as code with Terraform - access registry providers, modules, policies, and HCP Terraform workspace management.
+
+**MCP Servers:** terraform (Docker stdio)
+
+---
+
 
 ## Security
 
