@@ -1,6 +1,6 @@
 ---
 name: "strands"
-displayName: "Strands Agents SDK"
+displayName: "Build an agent with Strands SDK"
 description: "Build AI agents with Strands SDK using Bedrock, Anthropic, OpenAI, Gemini, or Llama models"
 keywords: ["agents", "ai", "llm", "bedrock", "anthropic", "openai", "gemini", "strands", "tools"]
 author: "AWS"

@@ -1,6 +1,6 @@
 ---
 name: "postman"
-displayName: "Postman API Testing"
+displayName: "API Testing with Postman"
 description: "Automate API testing and collection management with Postman - create workspaces, collections, environments, and run tests programmatically"
 keywords: ["postman", "api", "testing", "collections", "rest", "http", "automation"]
 author: "Postman"

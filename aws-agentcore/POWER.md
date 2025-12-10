@@ -1,7 +1,7 @@
 ---
 name: "aws-agentcore"
-displayName: "AWS Bedrock AgentCore"
-description: "Build, test, and deploy AI agents using AWS Bedrock AgentCore with local development workflow"
+displayName: "Build an agent with Amazon Bedrock AgentCore"
+description: "Build, test, and deploy AI agents using AWS Bedrock AgentCore with local development workflow. Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents."
 keywords: ["agentcore", "bedrock", "aws", "agents", "ai", "development", "agent"]
 author: "AWS"
 ---

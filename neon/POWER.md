@@ -1,6 +1,6 @@
 ---
 name: "neon"
-displayName: "Neon Database"
+displayName: "Build a database with Neon"
 description: "Serverless Postgres with database branching, autoscaling, and scale-to-zero - perfect for modern development workflows"
 keywords: ["neon", "postgres", "database", "serverless", "branching", "sql", "postgresql"]
 author: "Neon"
