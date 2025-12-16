@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "notion": {
+      "url": "https://mcp.notion.com/mcp",
+      "autoApprove": [
+        "notion-search"
+      ]
+    }
+  }
+}
