@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "azure-devops": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@azure-devops/mcp",
+        "YOUR_ADO_ORG_NAME",
+        "-d",
+        "core",
+        "work",
+        "work-items",
+        "search",
+        "wiki"
+      ],
+      "autoApprove": [
+        "wit_my_work_items",
+        "wit_get_work_items_batch_by_ids",
+        "work_list_iterations",
+        "wit_get_work_items_for_iteration",
+        "core_list_projects",
+        "wiki_list_wikis",
+        "search_workitem"
+      ]
+    }
+  }
+}
